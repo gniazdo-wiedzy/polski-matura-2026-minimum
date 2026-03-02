@@ -1480,6 +1480,101 @@
       "from": "m-totalitaryzm",
       "to": "br-totali",
       "type": "bridge"
+    },
+    {
+      "from": "antyk",
+      "to": "g-tragedia",
+      "type": "branch"
+    },
+    {
+      "from": "antyk",
+      "to": "g-epos",
+      "type": "branch"
+    },
+    {
+      "from": "antyk",
+      "to": "m-bunt",
+      "type": "branch"
+    },
+    {
+      "from": "sredniowiecze",
+      "to": "m-cierpienie",
+      "type": "branch"
+    },
+    {
+      "from": "sredniowiecze",
+      "to": "m-vanitas",
+      "type": "branch"
+    },
+    {
+      "from": "renesans",
+      "to": "g-dramat",
+      "type": "branch"
+    },
+    {
+      "from": "renesans",
+      "to": "m-moralnosc",
+      "type": "branch"
+    },
+    {
+      "from": "oswiecenie",
+      "to": "g-satyra",
+      "type": "branch"
+    },
+    {
+      "from": "romantyzm",
+      "to": "g-ballada",
+      "type": "branch"
+    },
+    {
+      "from": "romantyzm",
+      "to": "m-patriotyzm",
+      "type": "branch"
+    },
+    {
+      "from": "romantyzm",
+      "to": "m-prometeizm",
+      "type": "branch"
+    },
+    {
+      "from": "pozytywizm",
+      "to": "g-powiesc",
+      "type": "branch"
+    },
+    {
+      "from": "pozytywizm",
+      "to": "m-spoleczenstwo",
+      "type": "branch"
+    },
+    {
+      "from": "dwudziestolecie",
+      "to": "g-groteska",
+      "type": "branch"
+    },
+    {
+      "from": "dwudziestolecie",
+      "to": "m-forma",
+      "type": "branch"
+    },
+    {
+      "from": "ii-wojna",
+      "to": "g-reportaz",
+      "type": "branch"
+    },
+    {
+      "from": "ii-wojna",
+      "to": "m-totalitaryzm",
+      "type": "branch"
+    },
+    {
+      "from": "wspolczesnosc",
+      "to": "g-opowiadanie",
+      "type": "branch"
+    },
+    {
+      "from": "wspolczesnosc",
+      "to": "m-obcosc",
+      "type": "branch"
     }
   ]
 }
